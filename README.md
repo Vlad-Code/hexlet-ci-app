@@ -1,3 +1,5 @@
+[![jobs-ci](https://github.com/Vlad-Code/hexlet-ci-app/actions/workflows/jobs-ci.yml/badge.svg)](https://github.com/Vlad-Code/hexlet-ci-app/actions/workflows/jobs-ci.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
